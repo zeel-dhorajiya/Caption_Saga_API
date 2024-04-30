@@ -2,7 +2,7 @@
     "captionCategories": [
     {
         "categoryName": "Love",
-        "categoryImage": "url_to_love_image.png"
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/love.jpg"
     },
     {
         "categoryName": "Nature",
