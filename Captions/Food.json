@@ -1,0 +1,302 @@
+[
+  {
+    "captionText": "Good food is all the sweeter when shared with good friends.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/food1.jpg"
+  },
+  {
+    "captionText": "Life is uncertain. Eat dessert first.",
+    "author": "Ernestine Ulmer",
+    "imageUrl": "https://example.com/food2.jpg"
+  },
+  {
+    "captionText": "The only thing I like better than talking about food is eating.",
+    "author": "John Walters",
+    "imageUrl": "https://example.com/food3.jpg"
+  },
+  {
+    "captionText": "There is no sincerer love than the love of food.",
+    "author": "George Bernard Shaw",
+    "imageUrl": "https://example.com/food4.jpg"
+  },
+  {
+    "captionText": "Food is symbolic of love when words are inadequate.",
+    "author": "Alan D. Wolfelt",
+    "imageUrl": "https://example.com/food5.jpg"
+  },
+  {
+    "captionText": "Laughter is brightest in the place where the food is.",
+    "author": "Irish Proverb",
+    "imageUrl": "https://example.com/food6.jpg"
+  },
+  {
+    "captionText": "All happiness depends on a leisurely breakfast.",
+    "author": "John Gunther",
+    "imageUrl": "https://example.com/food7.jpg"
+  },
+  {
+    "captionText": "Food brings people together on many different levels. It's the nourishment of the soul and body; it's truly love.",
+    "author": "Giada De Laurentiis",
+    "imageUrl": "https://example.com/food8.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food9.jpg"
+  },
+  {
+    "captionText": "First, we eat. Then, we do everything else.",
+    "author": "M.F.K. Fisher",
+    "imageUrl": "https://example.com/food10.jpg"
+  },
+  {
+    "captionText": "There is no love sincerer than the love of food.",
+    "author": "George Bernard Shaw",
+    "imageUrl": "https://example.com/food11.jpg"
+  },
+  {
+    "captionText": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food12.jpg"
+  },
+  {
+    "captionText": "Food is not just eating energy. It's an experience.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food13.jpg"
+  },
+  {
+    "captionText": "Life is too short for self-hatred and celery sticks.",
+    "author": "Marilyn Wann",
+    "imageUrl": "https://example.com/food14.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food15.jpg"
+  },
+  {
+    "captionText": "Food is not rational. Food is culture, habit, craving and identity.",
+    "author": "Jonathan Safran Foer",
+    "imageUrl": "https://example.com/food16.jpg"
+  },
+  {
+    "captionText": "Food is our common ground, a universal experience.",
+    "author": "James Beard",
+    "imageUrl": "https://example.com/food17.jpg"
+  },
+  {
+    "captionText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food18.jpg"
+  },
+  {
+    "captionText": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "author": "David Chang",
+    "imageUrl": "https://example.com/food19.jpg"
+  },
+  {
+    "captionText": "Food is our common ground, a universal experience.",
+    "author": "James Beard",
+    "imageUrl": "https://example.com/food20.jpg"
+  },
+  {
+    "captionText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food21.jpg"
+  },
+  {
+    "captionText": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "author": "David Chang",
+    "imageUrl": "https://example.com/food22.jpg"
+  },
+  {
+    "captionText": "Cooking is like love. It should be entered into with abandon or not at all.",
+    "author": "Harriet Van Horne",
+    "imageUrl": "https://example.com/food23.jpg"
+  },
+  {
+    "captionText": "Food brings people together on many different levels. It's the nourishment of the soul and body; it's truly love.",
+    "author": "Giada De Laurentiis",
+    "imageUrl": "https://example.com/food24.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food25.jpg"
+  },
+  {
+    "captionText": "First, we eat. Then, we do everything else.",
+    "author": "M.F.K. Fisher",
+    "imageUrl": "https://example.com/food26.jpg"
+  },
+  {
+    "captionText": "There is no love sincerer than the love of food.",
+    "author": "George Bernard Shaw",
+    "imageUrl": "https://example.com/food27.jpg"
+  },
+  {
+    "captionText": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food28.jpg"
+  },
+  {
+    "captionText": "Food is not just eating energy. It's an experience.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food29.jpg"
+  },
+  {
+    "captionText": "Life is too short for self-hatred and celery sticks.",
+    "author": "Marilyn Wann",
+    "imageUrl": "https://example.com/food30.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food31.jpg"
+  },
+  {
+    "captionText": "Food is not rational. Food is culture, habit, craving and identity.",
+    "author": "Jonathan Safran Foer",
+    "imageUrl": "https://example.com/food32.jpg"
+  },
+  {
+    "captionText": "Food is our common ground, a universal experience.",
+    "author": "James Beard",
+    "imageUrl": "https://example.com/food33.jpg"
+  },
+  {
+    "captionText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food34.jpg"
+  },
+  {
+    "captionText": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "author": "David Chang",
+    "imageUrl": "https://example.com/food35.jpg"
+  },
+  {
+    "captionText": "Food is our common ground, a universal experience.",
+    "author": "James Beard",
+    "imageUrl": "https://example.com/food36.jpg"
+  },
+  {
+    "captionText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food37.jpg"
+  },
+  {
+    "captionText": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "author": "David Chang",
+    "imageUrl": "https://example.com/food38.jpg"
+  },
+  {
+    "captionText": "Cooking is like love. It should be entered into with abandon or not at all.",
+    "author": "Harriet Van Horne",
+    "imageUrl": "https://example.com/food39.jpg"
+  },
+  {
+    "captionText": "Food brings people together on many different levels. It's the nourishment of the soul and body; it's truly love.",
+    "author": "Giada De Laurentiis",
+    "imageUrl": "https://example.com/food40.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food41.jpg"
+  },
+  {
+    "captionText": "First, we eat. Then, we do everything else.",
+    "author": "M.F.K. Fisher",
+    "imageUrl": "https://example.com/food42.jpg"
+  },
+  {
+    "captionText": "There is no love sincerer than the love of food.",
+    "author": "George Bernard Shaw",
+    "imageUrl": "https://example.com/food43.jpg"
+  },
+  {
+    "captionText": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food44.jpg"
+  },
+  {
+    "captionText": "Food is not just eating energy. It's an experience.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food45.jpg"
+  },
+  {
+    "captionText": "Life is too short for self-hatred and celery sticks.",
+    "author": "Marilyn Wann",
+    "imageUrl": "https://example.com/food46.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food47.jpg"
+  },
+  {
+    "captionText": "Food is not rational. Food is culture, habit, craving and identity.",
+    "author": "Jonathan Safran Foer",
+    "imageUrl": "https://example.com/food48.jpg"
+  },
+  {
+    "captionText": "Food is our common ground, a universal experience.",
+    "author": "James Beard",
+    "imageUrl": "https://example.com/food49.jpg"
+  },
+  {
+    "captionText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food50.jpg"
+  },
+  {
+    "captionText": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "author": "David Chang",
+    "imageUrl": "https://example.com/food51.jpg"
+  },
+  {
+    "captionText": "Food is our common ground, a universal experience.",
+    "author": "James Beard",
+    "imageUrl": "https://example.com/food52.jpg"
+  },
+  {
+    "captionText": "The only time to eat diet food is while you're waiting for the steak to cook.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food53.jpg"
+  },
+  {
+    "captionText": "Food, to me, is always about cooking and eating with those you love and care for.",
+    "author": "David Chang",
+    "imageUrl": "https://example.com/food54.jpg"
+  },
+  {
+    "captionText": "Cooking is like love. It should be entered into with abandon or not at all.",
+    "author": "Harriet Van Horne",
+    "imageUrl": "https://example.com/food55.jpg"
+  },
+  {
+    "captionText": "Food brings people together on many different levels. It's the nourishment of the soul and body; it's truly love.",
+    "author": "Giada De Laurentiis",
+    "imageUrl": "https://example.com/food56.jpg"
+  },
+  {
+    "captionText": "People who love to eat are always the best people.",
+    "author": "Julia Child",
+    "imageUrl": "https://example.com/food57.jpg"
+  },
+  {
+    "captionText": "First, we eat. Then, we do everything else.",
+    "author": "M.F.K. Fisher",
+    "imageUrl": "https://example.com/food58.jpg"
+  },
+  {
+    "captionText": "There is no love sincerer than the love of food.",
+    "author": "George Bernard Shaw",
+    "imageUrl": "https://example.com/food59.jpg"
+  },
+  {
+    "captionText": "Cooking is all about people. Food is maybe the only universal thing that really has the power to bring everyone together. No matter what culture, everywhere around the world, people get together to eat.",
+    "author": "Guy Fieri",
+    "imageUrl": "https://example.com/food60.jpg"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "captionText": "The world is a book and those who do not travel read only one page.",
+    "author": "Saint Augustine",
+    "imageUrl": "https://example.com/travel1.jpg"
+  },
+  {
+    "captionText": "Travel is the only thing you buy that makes you richer.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel2.jpg"
+  },
+  {
+    "captionText": "Adventure awaits.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel3.jpg"
+  },
+  {
+    "captionText": "Wander often, wonder always.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel4.jpg"
+  },
+  {
+    "captionText": "Life is short and the world is wide.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel5.jpg"
+  },
+  {
+    "captionText": "Travel far enough, you meet yourself.",
+    "author": "David Mitchell",
+    "imageUrl": "https://example.com/travel6.jpg"
+  },
+  {
+    "captionText": "Jobs fill your pocket, but adventures fill your soul.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel7.jpg"
+  },
+  {
+    "captionText": "The journey of a thousand miles begins with a single step.",
+    "author": "Lao Tzu",
+    "imageUrl": "https://example.com/travel8.jpg"
+  },
+  {
+    "captionText": "Not all who wander are lost.",
+    "author": "J.R.R. Tolkien",
+    "imageUrl": "https://example.com/travel9.jpg"
+  },
+  {
+    "captionText": "Traveling – it leaves you speechless, then turns you into a storyteller.",
+    "author": "Ibn Battuta",
+    "imageUrl": "https://example.com/travel10.jpg"
+  },
+  {
+    "captionText": "Adventure is worthwhile.",
+    "author": "Aesop",
+    "imageUrl": "https://example.com/travel11.jpg"
+  },
+  {
+    "captionText": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+    "author": "Mark Twain",
+    "imageUrl": "https://example.com/travel12.jpg"
+  },
+  {
+    "captionText": "The gladdest moment in human life is a departure into unknown lands.",
+    "author": "Sir Richard Burton",
+    "imageUrl": "https://example.com/travel13.jpg"
+  },
+  {
+    "captionText": "To travel is to live.",
+    "author": "Hans Christian Andersen",
+    "imageUrl": "https://example.com/travel14.jpg"
+  },
+  {
+    "captionText": "Travel makes one modest. You see what a tiny place you occupy in the world.",
+    "author": "Gustave Flaubert",
+    "imageUrl": "https://example.com/travel15.jpg"
+  },
+  {
+    "captionText": "We wander for distraction, but we travel for fulfillment.",
+    "author": "Hilaire Belloc",
+    "imageUrl": "https://example.com/travel16.jpg"
+  },
+  {
+    "captionText": "Travel and change of place impart new vigor to the mind.",
+    "author": "Seneca",
+    "imageUrl": "https://example.com/travel17.jpg"
+  },
+  {
+    "captionText": "Travel is never a matter of money but of courage.",
+    "author": "Paulo Coelho",
+    "imageUrl": "https://example.com/travel18.jpg"
+  },
+  {
+    "captionText": "Traveling tends to magnify all human emotions.",
+    "author": "Peter Hoeg",
+    "imageUrl": "https://example.com/travel19.jpg"
+  },
+  {
+    "captionText": "Live life with no excuses, travel with no regret.",
+    "author": "Oscar Wilde",
+    "imageUrl": "https://example.com/travel20.jpg"
+  },
+  {
+    "captionText": "The world is yours to explore.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel21.jpg"
+  },
+  {
+    "captionText": "Traveling – it leaves you speechless, then turns you into a storyteller.",
+    "author": "Ibn Battuta",
+    "imageUrl": "https://example.com/travel22.jpg"
+  },
+  {
+    "captionText": "Adventure is worthwhile.",
+    "author": "Aesop",
+    "imageUrl": "https://example.com/travel23.jpg"
+  },
+  {
+    "captionText": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+    "author": "Mark Twain",
+    "imageUrl": "https://example.com/travel24.jpg"
+  },
+  {
+    "captionText": "The gladdest moment in human life is a departure into unknown lands.",
+    "author": "Sir Richard Burton",
+    "imageUrl": "https://example.com/travel25.jpg"
+  },
+  {
+    "captionText": "To travel is to live.",
+    "author": "Hans Christian Andersen",
+    "imageUrl": "https://example.com/travel26.jpg"
+  },
+  {
+    "captionText": "Travel makes one modest. You see what a tiny place you occupy in the world.",
+    "author": "Gustave Flaubert",
+    "imageUrl": "https://example.com/travel27.jpg"
+  },
+  {
+    "captionText": "We wander for distraction, but we travel for fulfillment.",
+    "author": "Hilaire Belloc",
+    "imageUrl": "https://example.com/travel28.jpg"
+  },
+  {
+    "captionText": "Travel and change of place impart new vigor to the mind.",
+    "author": "Seneca",
+    "imageUrl": "https://example.com/travel29.jpg"
+  },
+  {
+    "captionText": "Travel is never a matter of money but of courage.",
+    "author": "Paulo Coelho",
+    "imageUrl": "https://example.com/travel30.jpg"
+  },
+  {
+    "captionText": "Traveling tends to magnify all human emotions.",
+    "author": "Peter Hoeg",
+    "imageUrl": "https://example.com/travel31.jpg"
+  },
+  {
+    "captionText": "Live life with no excuses, travel with no regret.",
+    "author": "Oscar Wilde",
+    "imageUrl": "https://example.com/travel32.jpg"
+  },
+  {
+    "captionText": "The world is yours to explore.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel33.jpg"
+  },
+  {
+    "captionText": "Traveling – it leaves you speechless, then turns you into a storyteller.",
+    "author": "Ibn Battuta",
+    "imageUrl": "https://example.com/travel34.jpg"
+  },
+  {
+    "captionText": "Adventure is worthwhile.",
+    "author": "Aesop",
+    "imageUrl": "https://example.com/travel35.jpg"
+  },
+  {
+    "captionText": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+    "author": "Mark Twain",
+    "imageUrl": "https://example.com/travel36.jpg"
+  },
+  {
+    "captionText": "The gladdest moment in human life is a departure into unknown lands.",
+    "author": "Sir Richard Burton",
+    "imageUrl": "https://example.com/travel37.jpg"
+  },
+  {
+    "captionText": "To travel is to live.",
+    "author": "Hans Christian Andersen",
+    "imageUrl": "https://example.com/travel38.jpg"
+  },
+  {
+    "captionText": "Travel makes one modest. You see what a tiny place you occupy in the world.",
+    "author": "Gustave Flaubert",
+    "imageUrl": "https://example.com/travel39.jpg"
+  },
+  {
+    "captionText": "We wander for distraction, but we travel for fulfillment.",
+    "author": "Hilaire Belloc",
+    "imageUrl": "https://example.com/travel40.jpg"
+  },
+  {
+    "captionText": "Travel and change of place impart new vigor to the mind.",
+    "author": "Seneca",
+    "imageUrl": "https://example.com/travel41.jpg"
+  },
+  {
+    "captionText": "Travel is never a matter of money but of courage.",
+    "author": "Paulo Coelho",
+    "imageUrl": "https://example.com/travel42.jpg"
+  },
+  {
+    "captionText": "Traveling tends to magnify all human emotions.",
+    "author": "Peter Hoeg",
+    "imageUrl": "https://example.com/travel43.jpg"
+  },
+  {
+    "captionText": "Live life with no excuses, travel with no regret.",
+    "author": "Oscar Wilde",
+    "imageUrl": "https://example.com/travel44.jpg"
+  },
+  {
+    "captionText": "The world is yours to explore.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel45.jpg"
+  },
+  {
+    "captionText": "Traveling – it leaves you speechless, then turns you into a storyteller.",
+    "author": "Ibn Battuta",
+    "imageUrl": "https://example.com/travel46.jpg"
+  },
+  {
+    "captionText": "Adventure is worthwhile.",
+    "author": "Aesop",
+    "imageUrl": "https://example.com/travel47.jpg"
+  },
+  {
+    "captionText": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+    "author": "Mark Twain",
+    "imageUrl": "https://example.com/travel48.jpg"
+  },
+  {
+    "captionText": "The gladdest moment in human life is a departure into unknown lands.",
+    "author": "Sir Richard Burton",
+    "imageUrl": "https://example.com/travel49.jpg"
+  },
+  {
+    "captionText": "To travel is to live.",
+    "author": "Hans Christian Andersen",
+    "imageUrl": "https://example.com/travel50.jpg"
+  },
+  {
+    "captionText": "Travel makes one modest. You see what a tiny place you occupy in the world.",
+    "author": "Gustave Flaubert",
+    "imageUrl": "https://example.com/travel51.jpg"
+  },
+  {
+    "captionText": "We wander for distraction, but we travel for fulfillment.",
+    "author": "Hilaire Belloc",
+    "imageUrl": "https://example.com/travel52.jpg"
+  },
+  {
+    "captionText": "Travel and change of place impart new vigor to the mind.",
+    "author": "Seneca",
+    "imageUrl": "https://example.com/travel53.jpg"
+  },
+  {
+    "captionText": "Travel is never a matter of money but of courage.",
+    "author": "Paulo Coelho",
+    "imageUrl": "https://example.com/travel54.jpg"
+  },
+  {
+    "captionText": "Traveling tends to magnify all human emotions.",
+    "author": "Peter Hoeg",
+    "imageUrl": "https://example.com/travel55.jpg"
+  },
+  {
+    "captionText": "Live life with no excuses, travel with no regret.",
+    "author": "Oscar Wilde",
+    "imageUrl": "https://example.com/travel56.jpg"
+  },
+  {
+    "captionText": "The world is yours to explore.",
+    "author": "Unknown",
+    "imageUrl": "https://example.com/travel57.jpg"
+  },
+  {
+    "captionText": "Traveling – it leaves you speechless, then turns you into a storyteller.",
+    "author": "Ibn Battuta",
+    "imageUrl": "https://example.com/travel58.jpg"
+  },
+  {
+    "captionText": "Adventure is worthwhile.",
+    "author": "Aesop",
+    "imageUrl": "https://example.com/travel59.jpg"
+  },
+  {
+    "captionText": "Travel is fatal to prejudice, bigotry, and narrow-mindedness.",
+    "author": "Mark Twain",
+    "imageUrl": "https://example.com/travel60.jpg"
+  }
+]
