@@ -1,0 +1,68 @@
+{
+    "captionCategories": [
+    {
+        "categoryName": "Love",
+        "categoryImage": "url_to_love_image.png"
+    },
+    {
+        "categoryName": "Nature",
+        "categoryImage": "url_to_nature_image.png"
+    },
+    {
+        "categoryName": "Family",
+        "categoryImage": "url_to_family_image.png"
+    },
+    {
+        "categoryName": "Friendship",
+        "categoryImage": "url_to_friendship_image.png"
+    },
+    {
+        "categoryName": "Travel",
+        "categoryImage": "url_to_travel_image.png"
+    },
+    {
+        "categoryName": "Food",
+        "categoryImage": "url_to_food_image.png"
+    },
+    {
+        "categoryName": "Fashion",
+        "categoryImage": "url_to_fashion_image.png"
+    },
+    {
+        "categoryName": "Selfie",
+        "categoryImage": "url_to_selfie_image.png"
+    },
+    {
+        "categoryName": "Motivation",
+        "categoryImage": "url_to_motivation_image.png"
+    },
+    {
+        "categoryName": "Funny",
+        "categoryImage": "url_to_funny_image.png"
+    },
+    {
+        "categoryName": "Birthday",
+        "categoryImage": "url_to_birthday_image.png"
+    },
+    {
+        "categoryName": "Life",
+        "categoryImage": "url_to_life_image.png"
+    },
+    {
+        "categoryName": "Art",
+        "categoryImage": "url_to_art_image.png"
+    },
+    {
+        "categoryName": "Music",
+        "categoryImage": "url_to_music_image.png"
+    },
+    {
+        "categoryName": "Sports",
+        "categoryImage": "url_to_sports_image.png"
+    },
+    {
+        "categoryName": "Technology",
+        "categoryImage": "url_to_technology_image.png"
+    }
+    ]
+}
