@@ -1,66 +1,68 @@
-"captionCategories": [
 {
-"categoryName": "Love",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/love.jpg"
-},
-{
-"categoryName": "Nature",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/nature.jpg"
-},
-{
-"categoryName": "Family",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/family.jpg"
-},
-{
-"categoryName": "Friendship",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/friendship.jpg"
-},
-{
-"categoryName": "Travel",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/travel.jpg"
-},
-{
-"categoryName": "Food",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/food.jpg"
-},
-{
-"categoryName": "Fashion",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/fashion.jpg"
-},
-{
-"categoryName": "Selfie",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/selfie.jpg"
-},
-{
-"categoryName": "Motivation",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/motivation.jpg"
-},
-{
-"categoryName": "Funny",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/funny.jpg"
-},
-{
-"categoryName": "Birthday",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/birthday.jpg"
-},
-{
-"categoryName": "Life",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/life.jpg"
-},
-{
-"categoryName": "Art",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/art.jpg"
-},
-{
-"categoryName": "Music",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/music.jpg"
-},
-{
-"categoryName": "Sports",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/sports.jpg"
-},
-{
-"categoryName": "Technology",
-"categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/technology.jpg"
+    "captionCategories": [
+    {
+        "categoryName": "Love",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/love.jpg"
+    },
+    {
+        "categoryName": "Nature",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/nature.jpg"
+    },
+    {
+        "categoryName": "Family",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/family.jpg"
+    },
+    {
+        "categoryName": "Friendship",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/friendship.jpg"
+    },
+    {
+        "categoryName": "Travel",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/travel.jpg"
+    },
+    {
+        "categoryName": "Food",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/food.jpg"
+    },
+    {
+        "categoryName": "Fashion",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/fashion.jpg"
+    },
+    {
+        "categoryName": "Selfie",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/selfie.jpg"
+    },
+    {
+        "categoryName": "Motivation",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/motivation.jpg"
+    },
+    {
+        "categoryName": "Funny",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/funny.jpg"
+    },
+    {
+        "categoryName": "Birthday",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/birthday.jpg"
+    },
+    {
+        "categoryName": "Life",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/life.jpg"
+    },
+    {
+        "categoryName": "Art",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/art.jpg"
+    },
+    {
+        "categoryName": "Music",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/music.jpg"
+    },
+    {
+        "categoryName": "Sports",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/sports.jpg"
+    },
+    {
+        "categoryName": "Technology",
+        "categoryImage": "https://zeel-dhorajiya.github.io/Caption_Saga_API/Category_Images/technology.jpg"
+    }
+    ]
 }
-]
